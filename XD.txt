@@ -2,8 +2,8 @@ XD
 
 PIKACHU
 
-<<<<<<< HEAD
 POKEMON JEJE
-=======
+
 super smash bros ultimate
->>>>>>> master
+
+bulbasur
